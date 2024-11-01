@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "ingilizcekelime": "Apple",
+    "turkcekelime": "Elma",
+    "date": "2023-10-01"
+  },
+  {
+    "id": 2,
+    "ingilizcekelime": "Orange",
+    "turkcekelime": "Portakal",
+    "date": "2023-09-20"
+  },
+  {
+    "id": 3,
+    "ingilizcekelime": "Water",
+    "turkcekelime": "Su",
+    "date": "2023-08-15"
+  },
+  {
+    "id": 4,
+    "ingilizcekelime": "Book",
+    "turkcekelime": "Kitap",
+    "date": "2023-07-05"
+  },
+  {
+    "id": 5,
+    "ingilizcekelime": "Car",
+    "turkcekelime": "Araba",
+    "date": "2023-06-22"
+  },
+  {
+    "id": 6,
+    "ingilizcekelime": "Sun",
+    "turkcekelime": "Güneş",
+    "date": "2023-05-11"
+  },
+  {
+    "id": 7,
+    "ingilizcekelime": "House",
+    "turkcekelime": "Ev",
+    "date": "2023-04-25"
+  },
+  {
+    "id": 8,
+    "ingilizcekelime": "Computer",
+    "turkcekelime": "Bilgisayar",
+    "date": "2023-03-14"
+  },
+  {
+    "id": 9,
+    "ingilizcekelime": "Tree",
+    "turkcekelime": "Ağaç",
+    "date": "2023-02-10"
+  },
+  {
+    "id": 10,
+    "ingilizcekelime": "School",
+    "turkcekelime": "Okul",
+    "date": "2023-01-29"
+  },
+  {
+    "id": 11,
+    "ingilizcekelime": "Pen",
+    "turkcekelime": "Kalem",
+    "date": "2022-12-15"
+  },
+  {
+    "id": 12,
+    "ingilizcekelime": "Phone",
+    "turkcekelime": "Telefon",
+    "date": "2022-11-20"
+  },
+  {
+    "id": 13,
+    "ingilizcekelime": "Dog",
+    "turkcekelime": "Köpek",
+    "date": "2022-10-03"
+  },
+  {
+    "id": 14,
+    "ingilizcekelime": "Cat",
+    "turkcekelime": "Kedi",
+    "date": "2022-09-18"
+  },
+  {
+    "id": 15,
+    "ingilizcekelime": "Milk",
+    "turkcekelime": "Süt",
+    "date": "2024-10-10"
+  },
+  {
+    "id": 16,
+    "ingilizcekelime": "Mouse",
+    "turkcekelime": "Fare",
+    "date": "2024-10-23"
+  }
+]

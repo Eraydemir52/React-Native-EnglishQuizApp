@@ -2,10 +2,12 @@
   "expo": {
     "name": "quizenglish",
     "slug": "quizenglish",
+    "owner": "eray52",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "scheme": "quizenglish",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -18,10 +20,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.eray52.quizenglish"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "530904a1-42b5-4613-8b00-25decc783848"
+      }
     }
   }
 }
